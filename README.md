@@ -4,8 +4,8 @@ Hey yall! You can call me Yung!
 
 Little about me: 
 
-University student who thrives to learn more about secure communication and AI!
+I’m passionate about digital transformation which inspired me to write an e-book called: “Simplified Path to Digital World Era: Understand Technical Basics the Right Way”. This is one of those personal side projects; as I like to document the information which I find online. My aim of this eBook is to encourage people to follow this similar path that I took to understand new technology advancements. 
 
-I have recently began researching into cryptography and trying to fully understand the works of API and SSH Keys, however my programming knowledge is still quite minor. Therefore I'm still expanding my knowledge into Java and JavaScript as I'm planning on creating a project based on my current topic of research.
+I’m particularly interested in Cryptography / Data Science / AI topics therefore I am currently learning Python 3 so I could further advance to PyTorch for Deep Learning. 
 
-This is just a beginning and I will soon start putting bits and pieces together and bring something useful to this community! 
+I also enjoy meditating and listening to different "Alpha Wave" music as it helps me to stay focused!
